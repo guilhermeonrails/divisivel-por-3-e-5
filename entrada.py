@@ -7,7 +7,3 @@ def entrada_usuario():
     except ValueError:
         print('Entrada inválida!')
     return entrada_usuario()
-
-
-
-
